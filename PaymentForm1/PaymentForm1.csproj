@@ -33,6 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic" />
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -46,14 +47,26 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.cs">
+    <Compile Include="Form1_Cust.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="Form1_Cust.Designer.cs">
+      <DependentUpon>Form1_Cust.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form2_Bill.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2_Bill.Designer.cs">
+      <DependentUpon>Form2_Bill.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1_Cust.resx">
+      <DependentUpon>Form1_Cust.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2_Bill.resx">
+      <DependentUpon>Form2_Bill.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>

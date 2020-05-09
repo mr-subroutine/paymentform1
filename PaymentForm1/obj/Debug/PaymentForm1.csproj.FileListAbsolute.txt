@@ -1,0 +1,11 @@
+C:\Users\gamef\source\repos\PaymentForm1\PaymentForm1\bin\Debug\PaymentForm1.exe.config
+C:\Users\gamef\source\repos\PaymentForm1\PaymentForm1\bin\Debug\PaymentForm1.exe
+C:\Users\gamef\source\repos\PaymentForm1\PaymentForm1\bin\Debug\PaymentForm1.pdb
+C:\Users\gamef\source\repos\PaymentForm1\PaymentForm1\obj\Debug\PaymentForm1.Form1_Cust.resources
+C:\Users\gamef\source\repos\PaymentForm1\PaymentForm1\obj\Debug\PaymentForm1.Properties.Resources.resources
+C:\Users\gamef\source\repos\PaymentForm1\PaymentForm1\obj\Debug\PaymentForm1.csproj.GenerateResource.cache
+C:\Users\gamef\source\repos\PaymentForm1\PaymentForm1\obj\Debug\PaymentForm1.csproj.CoreCompileInputs.cache
+C:\Users\gamef\source\repos\PaymentForm1\PaymentForm1\obj\Debug\PaymentForm1.exe
+C:\Users\gamef\source\repos\PaymentForm1\PaymentForm1\obj\Debug\PaymentForm1.pdb
+C:\Users\gamef\source\repos\PaymentForm1\PaymentForm1\obj\Debug\PaymentForm1.Form2_Bill.resources
+C:\Users\gamef\source\repos\PaymentForm1\PaymentForm1\obj\Debug\PaymentForm1.csprojAssemblyReference.cache
